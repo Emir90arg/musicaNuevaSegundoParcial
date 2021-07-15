@@ -7,10 +7,6 @@ import imagenSuperior from "./images/imagenSuperior.jpg";
 import './App.css';
 
 
-/* Profe le aclaro que no entiendo porque tengo este malfuncionamiento , pero la pagina funciona .
-en la linea 62 si uso la constante genero sin un mapeo {genero.map} no funciona la pagina (no compila) y no abre en el navegador, pero al mapearlo el boton no funciona.
-elimino el mapeo de la linea 62  dejando elcodigo de esta forma   {genero} y el boton funciona correctamente */
-
 function App() {
 
   // Hago un state de frases, arranco con un objeto vacío
