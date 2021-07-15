@@ -46,7 +46,7 @@ return (
   <div
   style={
     {
-      paddingTop:"50px",
+      paddingTop:"20px",
       display:"flex",
       flexDirection:"column",
       alignItems:"center"
